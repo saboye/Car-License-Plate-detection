@@ -1,0 +1,5 @@
+train: ../data/train/images
+val: ../data/train/images # Using training images as validation temporarily
+
+nc: 1
+names: ["license"]
