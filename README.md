@@ -1,14 +1,13 @@
-
 <div align="center">
   <h1>Car License Plate Detection</h1>
 </div>
 
 <p align="center">
-    <img src="https://img.shields.io/github/contributors/saboye/car_license_plate_detection?color=blue&logo=github&style=for-the-badge" alt="GitHub contributors" />
-    <img src="https://img.shields.io/github/forks/saboye/car_license_plate_detection?logo=github&style=for-the-badge" alt="GitHub forks" />
-    <img src="https://img.shields.io/github/issues-raw/saboye/car_license_plate_detection?style=for-the-badge" alt="GitHub issues" />
-    <img src="https://img.shields.io/github/license/saboye/car_license_plate_detection?style=for-the-badge" alt="GitHub license" />
-    <img src="https://img.shields.io/github/last-commit/saboye/car_license_plate_detection?style=for-the-badge" alt="GitHub last commit" />
+    <img src="https://img.shields.io/github/contributors/saboye/Car-License-Plate-detection?color=blue&logo=github&style=for-the-badge" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/forks/saboye/Car-License-Plate-detection?logo=github&style=for-the-badge" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/issues-raw/saboye/Car-License-Plate-detection?style=for-the-badge" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/license/saboye/Car-License-Plate-detection?style=for-the-badge" alt="GitHub license" />
+    <img src="https://img.shields.io/github/last-commit/saboye/Car-License-Plate-detection?style=for-the-badge" alt="GitHub last commit" />
     <img src="https://img.shields.io/badge/yolo-5.0-blue?style=for-the-badge&logo=yolo" alt="YOLO" />
     <img src="https://img.shields.io/badge/pytorch-1.10.0-blue?style=for-the-badge&logo=pytorch" alt="PyTorch" />
     <img src="https://img.shields.io/badge/opencv-4.5.3-blue?style=for-the-badge&logo=opencv" alt="OpenCV" />
